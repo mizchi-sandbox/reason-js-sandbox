@@ -1,3 +1,4 @@
+#!/usr/bin/env sh
 rm -rf _build
 mkdir -p _build/reason-js
 node_modules/bs-platform/bin/bsc.exe -g -bin-annot -pp "refmt --print binary" -bs-package-name self \

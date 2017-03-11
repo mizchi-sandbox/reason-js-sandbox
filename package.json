@@ -1,12 +1,12 @@
 {
-  "name": "reason-sandbox",
+  "name": "reason-js-sandbox",
   "version": "1.0.0",
   "main": "_build/self/index",
   "repository": {},
   "author": "mizchi <miz404@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "sh build.sh",
+    "build": "./build.sh",
     "prepublish": "yarn build",
     "test": "ava"
   },
