@@ -1,0 +1,14 @@
+{
+  "name": "reason-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "mizchi <miz404@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reason-js": "^0.0.16"
+  },
+  "devDependencies": {
+    "bs-platform": "^1.5.0"
+  }
+}
