@@ -1,4 +1,2 @@
 _build
-*.cm*
-out
 node_modules

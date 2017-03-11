@@ -1,4 +1,4 @@
-print_endline MyDep.secret;
+print_endline MyMod.secret;
 
 /* values that can potentially be null are type checked correctly! */
 Random.self_init ();
